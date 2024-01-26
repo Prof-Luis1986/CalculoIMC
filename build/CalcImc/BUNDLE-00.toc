@@ -1,0 +1,4 @@
+([('CalcImc',
+   '/Users/luismartinezalfaro/Desktop/python '
+   'ejercicios/CalculoIMC/dist/CalcImc',
+   'EXECUTABLE')],)
